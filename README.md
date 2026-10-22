@@ -1,3 +1,16 @@
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
 # bestiary
 
-A Shiny app that generates wee beasties. Like the game where you stare at the clouds and try to see shapes, but on a computer and without clouds. You can adopt a beastie too if you find one you like. 
+Welcome to the bestiary, where wee beasties roam free. Like the game
+where you stare at the clouds and try to see shapes, but on a computer
+and without clouds.
+
+This one, for instance, looks like a bird that’s fallen over.
+
+<img src="fallen_over_bird.png" alt="" width="30%" />
+
+If you find a beastie you like, you can also adopt it.
