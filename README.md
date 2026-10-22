@@ -1,6 +1,7 @@
 
 <!-- badges: start -->
 
+![](https://img.shields.io/badge/wee-beasties-e2c258)
 <!-- badges: end -->
 
 # bestiary
